@@ -8,3 +8,4 @@
 ##### Server Kısmındaki kodların dizini Server/Server/Program.cs
 
 ##### Kod Çıktısı Ekran Görüntüsü
+[logo]: https://github.com/Hasanmert32/veri_iletisimi_server/blob/master/server.png "Ekran Çıktısı"
